@@ -1,3 +1,9 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1H4g1oZW2J2e7JxfeHcOVBdH-HCm7WIVF)
+
+
+
+
+
 # Learning Analytics & Educational Data Mining
 Student performance is often used to assess quality of education. often, the metrics used to measure and/or predict student performance are the Cumulative Grade Point Average (CGPA) and internal assessments. Some researches in the past have expanded the scope of metrics to include other aspects about the students such as amount of time spent studying, distane travelled to get to school, family relations, free time they get and internet access. Others have, on a larger scope, studied how students rated the structure and delivery of course content by instructors as this plays a big role in their perfromance.This project attempts to improve educationl systems using the above-mentioned data. the project will make use of data science principles and machine learning models to identify attributes that have the most correlation to student perfromance and predict future performance based on these.
 
